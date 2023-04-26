@@ -1,0 +1,8 @@
+cd /home/julysmartins/Documents/python/classification_folder/data/columnU_split/test 
+mkdir labels images
+
+cd /home/julysmartins/Documents/python/classification_folder/data/columnU_split/train
+mkdir labels images
+
+cd /home/julysmartins/Documents/python/classification_folder/data/columnU_split/val
+mkdir labels images
